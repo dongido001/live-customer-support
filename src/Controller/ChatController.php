@@ -84,7 +84,7 @@ class ChatController extends AbstractController
         $response = $this->chatkit->createRoom([
             'creator_id' => $userId,
             'name' => $userId,
-            'user_ids' => [$userId, 'ham'],
+            'user_ids' => [$userId],
             // 'private' => true,
         ]);
         
