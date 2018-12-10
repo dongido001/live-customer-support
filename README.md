@@ -1,6 +1,6 @@
 # Build a live customer app with Chatkit, Symfony and Vue - Part 2: Building the app
 
-This is a demo application showing how to build a live customer support application using Symfony, Chatkit and Vue. You can read the tutorial on how it was built [here](https://pusher.com/tutorials/)
+This is a demo application showing how to build a live customer support application using Symfony, Chatkit and Vue. You can read the tutorial on how it was built [here](https://pusher.com/tutorials/live-customer-support-symfony-vue-part-2)
 
 ## Getting Started
 
